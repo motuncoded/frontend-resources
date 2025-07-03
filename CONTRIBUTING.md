@@ -1,9 +1,3 @@
-To enforce that contributors **discuss their intended resource addition via the discussion channel before contributing**, you can improve the **"Note"** and slightly revise the **"How to Contribute"** section to make this requirement clearer.
-
-Here’s your revised contributing guide with that improvement:
-
----
-
 # 👋 Contributing Guide
 
 Thank you for considering contributing to this frontend resources repository! We appreciate your help in making this collection valuable for developers worldwide.
