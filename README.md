@@ -1,7 +1,5 @@
 # 🚀 Frontend Development Resources
 
-![GitHub stars](https://img.shields.io/github/stars/yourusername/frontend-resources?style=social)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/frontend-resources)
 
 A curated collection of the best frontend development resources including websites, podcasts, books, courses, and tools. Perfect for beginners and experienced developers alike.
 
