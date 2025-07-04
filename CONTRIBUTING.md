@@ -13,10 +13,7 @@ Thank you for considering contributing to this frontend resources repository! We
    Wait for feedback or approval before proceeding.
 
 2. **Fork** the repository
-
-```bash
-git fork https://github.com/motuncoded/frontend-resources.git
-```
+This is allow you to have a copy of the repository for collaboration 
 
 3. **Clone** your forked repo locally
 
