@@ -9,6 +9,7 @@ A curated list of useful websites for frontend developers, including blogs, docu
 - [MDN Web Docs](https://developer.mozilla.org/) – The most reliable web development reference
 - [CSS-Tricks](https://css-tricks.com/) – Excellent CSS guides and articles
 - [Frontend Developer Roadmap](https://roadmap.sh/frontend) - Comprehensive guide to becoming a frontend developer
+- [Total Typescript](https://www.totaltypescript.com/books/total-typescript-essentials) - A book for mastering TypeScript
 
 #### **🎨 Design & Inspiration**
 
@@ -19,3 +20,5 @@ A curated list of useful websites for frontend developers, including blogs, docu
 
 - [Smashing Magazine](https://www.smashingmagazine.com/) – Web design and development articles
 - [CSS-Tricks](https://css-tricks.com/) – Tips, tricks, and techniques on using CSS
+- [Dev.to](https://dev.to/) – Community of developers sharing articles and tutorials
+

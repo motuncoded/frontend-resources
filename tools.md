@@ -23,3 +23,4 @@ Recommended Tools for mastering frontend technologies.
 - [React Icons](https://react-icons.github.io/react-icons/) – Popular icon library for React applications
 - [Icons8](https://icons8.com/) – Extensive library of free icons and illustrations
 - [Flaticons](https://www.flaticon.com/) – Free icons for personal and commercial use
+- [Animated Icons](https://animatedicons.co/) – Collection of free animated icons
