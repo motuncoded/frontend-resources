@@ -2,11 +2,12 @@
 
 Recommended books for mastering frontend technologies.
 
-### **📖 Fundamentals**
+## **📖 Fundamentals**
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/) (Free) – Great JS introduction
 - [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS) (Free) – Deep JS concepts
 
-### **⚛️ Framework-Specific**
+## **⚛️ Framework-Specific**
 
-### **🎨 Design & UX**
+- [React - Up & Running](https://www.oreilly.com/library/view/react-up-and/9781491931820/) (Paid) – Practical React guide
+- [Vue.js Up and Running](https://www.oreilly.com/library/view/vuejs-up-and/9781491997247/) (Paid) – Comprehensive Vue.js resource

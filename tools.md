@@ -23,3 +23,12 @@ Recommended Tools for mastering frontend technologies.
 - [React Icons](https://react-icons.github.io/react-icons/) – Popular icon library for React applications
 - [Icons8](https://icons8.com/) – Extensive library of free icons and illustrations
 - [Flaticons](https://www.flaticon.com/) – Free icons for personal and commercial use
+- [Animated Icons](https://animatedicons.co/) – Collection of free animated icons
+
+
+
+### **🛠️ Testing Tools**
+- [Jest](https://jestjs.io/) – JavaScript testing framework
+- [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/) – Testing utilities for React
+- [Cypress](https://www.cypress.io/) – End-to-end testing framework
+- [Playwright](https://playwright.dev/) – Node.js library for browser automation

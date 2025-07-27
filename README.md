@@ -5,11 +5,15 @@ A curated collection of the best frontend development resources including websit
 
 ## 📚 Table of Contents
 
-- [Websites](#-websites)
-- [Podcasts](#-podcasts)
-- [Books](#-books)
-- [Courses](#-courses)
-- [Tools](#-tools)
+- [Websites](#-frontend-development-websites)
+- [Podcasts](#-frontend-development-podcasts)
+- [Books](#-frontend-development-books)
+- [Courses](#-frontend-development-courses)
+- [Tools](#-frontend-development-tools)
+- [No-Code Resources](#-frontend-development-no-code-resources)
+- [Design Resources](#-frontend-development-design-resources)
+- [Videos](#-frontend-development-videos)
+- [Extensions](#-extensions)
 - [Contributing](#-contributing)
 - [License](#-license)
 
