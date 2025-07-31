@@ -8,6 +8,8 @@ A curated list of useful websites for frontend developers, including blogs, docu
 - [CSS-Tricks](https://css-tricks.com/) – Excellent CSS guides and articles
 - [Frontend Developer Roadmap](https://roadmap.sh/frontend) - Comprehensive guide to becoming a frontend developer
 - [Total Typescript](https://www.totaltypescript.com/books/total-typescript-essentials) - A book for mastering TypeScript
+- [Fullstack Open](https://fullstackopen.com/en/) - A comprehensive course on modern web development
+- [gitdoctify](https://gitdoctify.com/) - A platform for creating and sharing documentation for Git repositories
 
 
 
