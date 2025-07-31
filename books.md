@@ -6,6 +6,7 @@ Recommended books for mastering frontend technologies.
 
 - [Eloquent JavaScript](https://eloquentjavascript.net/) (Free) – Great JS introduction
 - [You Don’t Know JS](https://github.com/getify/You-Dont-Know-JS) (Free) – Deep JS concepts
+- [Javacript The Definitive Guide](https://www.oreilly.com/library/view/javascript-the-definitive/9781449340377/) (Paid) – Comprehensive JS reference
 
 ## **⚛️ Framework-Specific**
 
