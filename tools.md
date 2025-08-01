@@ -16,7 +16,15 @@ Recommended Tools for mastering frontend technologies.
 - [StackBlitz](https://stackblitz.com/) – Online IDE for web development
 - [Vercel](https://vercel.com/) – Platform for frontend frameworks and static sites
 - [Netlify](https://www.netlify.com/) – Platform for deploying static sites and serverless functions
-
+- [UIball](https://uiball.com/) – Collection of animated loading indicators
+- [LottieFiles](https://lottiefiles.com/) – Library of animations for web and mobile
+- [UIverse](https://uiverse.io/) – Collection of free UI components and templates
+- [Magecdn](https://magecdn.com/) – CDN for frontend assets
+- [gradient scss](https://gradientscss.com/) – SCSS mixins for creating gradients
+- [CSS Gradient](https://cssgradient.io/) – Online tool for generating CSS gradients
+- [CSS Grid Generator](https://cssgrid-generator.netlify.app/) – Tool for generating CSS Grid layouts
+- [flexbox labs](https://flexbox.labs.kiwi/) – Interactive tool for learning CSS Flexbox
+- [Animate on scroll](https://michalsnik.github.io/aos/) – Library for animating elements on scroll
 
 
 ### **🛠️ Development Tools**
