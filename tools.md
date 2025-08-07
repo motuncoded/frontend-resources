@@ -20,10 +20,11 @@ Recommended Tools for mastering frontend technologies.
 - [LottieFiles](https://lottiefiles.com/) – Library of animations for web and mobile
 - [UIverse](https://uiverse.io/) – Collection of free UI components and templates
 - [Magecdn](https://magecdn.com/) – CDN for frontend assets
-- [gradient scss](https://gradientscss.com/) – SCSS mixins for creating gradients
+- [Gradient scss](https://gradientscss.com/) – SCSS mixins for creating gradients
 - [CSS Gradient](https://cssgradient.io/) – Online tool for generating CSS gradients
 - [CSS Grid Generator](https://cssgrid-generator.netlify.app/) – Tool for generating CSS Grid layouts
-- [flexbox labs](https://flexbox.labs.kiwi/) – Interactive tool for learning CSS Flexbox
+- [Flexbox labs](https://flexbox.labs.kiwi/) – Interactive tool for learning CSS Flexbox
+- [Ray.so](https://ray.so) - Tool that turns coding into image
 - [Animate on scroll](https://michalsnik.github.io/aos/) – Library for animating elements on scroll
 
 
